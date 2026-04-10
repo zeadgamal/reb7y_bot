@@ -5,7 +5,7 @@ import logging
 from decimal import Decimal
 from typing import List, Dict, Optional
 from aiogram import Bot
-from aiogram.types import ChatMemberStatus
+from aiogram.enums import ChatMemberStatus
 from services.promo_service import get_active_channels
 from config import config
 
