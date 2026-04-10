@@ -857,7 +857,7 @@ class UserHandlers:
 ⚠️ الغش = حظر فوري وفقدان الأرباح"""
         
         keyboard = [
-            [InlineKeyboardButton("🆘 الدعم الفني", url="https://t.me/LU_2W")],
+            [InlineKeyboardButton("🆘 الدعم الفني", url="https://t.me/MN_BF")],
             [InlineKeyboardButton("🔙 رجوع", callback_data="back")]
         ]
         reply_markup = InlineKeyboardMarkup(keyboard)
